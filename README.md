@@ -1,9 +1,11 @@
 # r4hpa
-R language for Human Performance Analysis
-Repositório de colaboração para criar as soluções de processamento, análise e relatório de dados. normalmente relaciodados a:
 
-  #- Processamento de sinais biológicos (filtros, amostragem e janelamento)
-  #- Visualização dos dados para análise de resultado individuais.
-  #- Relatórios em formato de Laudo.
-  
+##R language for Human Performance Analysis.
+
+This repo is for my collaborative solutions for data processing, analysis and reporting. 
+The type of data we work with usually seeks for:
+
+- Biological signal processing (filtering, sampling and windowing)
+- Data visualization for individual results analysis.
+- Report as a pdf file for the client.
   
